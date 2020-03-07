@@ -1,0 +1,19 @@
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\bin\Debug\Simulador de Seguros.exe.config
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\bin\Debug\Simulador de Seguros.exe
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\bin\Debug\Simulador de Seguros.pdb
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador de Seguros.csprojAssemblyReference.cache
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador_de_Seguros.Form1.resources
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador_de_Seguros.Properties.Resources.resources
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador de Seguros.csproj.GenerateResource.cache
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador de Seguros.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador de Seguros.exe
+D:\Desenvolvimento de Projetos de Sistema\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador de Seguros.pdb
+C:\Users\enock\Dropbox\Faculdade\3 ano\1S\Projetos e Desenvolvimentos de Sistemas\Projeto 1\Simulador de Seguros\Simulador de Seguros\bin\Debug\Simulador de Seguros.exe.config
+C:\Users\enock\Dropbox\Faculdade\3 ano\1S\Projetos e Desenvolvimentos de Sistemas\Projeto 1\Simulador de Seguros\Simulador de Seguros\bin\Debug\Simulador de Seguros.exe
+C:\Users\enock\Dropbox\Faculdade\3 ano\1S\Projetos e Desenvolvimentos de Sistemas\Projeto 1\Simulador de Seguros\Simulador de Seguros\bin\Debug\Simulador de Seguros.pdb
+C:\Users\enock\Dropbox\Faculdade\3 ano\1S\Projetos e Desenvolvimentos de Sistemas\Projeto 1\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador de Seguros.csprojAssemblyReference.cache
+C:\Users\enock\Dropbox\Faculdade\3 ano\1S\Projetos e Desenvolvimentos de Sistemas\Projeto 1\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador_de_Seguros.Form1.resources
+C:\Users\enock\Dropbox\Faculdade\3 ano\1S\Projetos e Desenvolvimentos de Sistemas\Projeto 1\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador_de_Seguros.Properties.Resources.resources
+C:\Users\enock\Dropbox\Faculdade\3 ano\1S\Projetos e Desenvolvimentos de Sistemas\Projeto 1\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador de Seguros.csproj.GenerateResource.cache
+C:\Users\enock\Dropbox\Faculdade\3 ano\1S\Projetos e Desenvolvimentos de Sistemas\Projeto 1\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador de Seguros.exe
+C:\Users\enock\Dropbox\Faculdade\3 ano\1S\Projetos e Desenvolvimentos de Sistemas\Projeto 1\Simulador de Seguros\Simulador de Seguros\obj\Debug\Simulador de Seguros.pdb
